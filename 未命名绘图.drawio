@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.8.2">
   <diagram name="第 1 页" id="U4IAuHqMJG7AL6-bSId_">
-    <mxGraphModel dx="1375" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,26 +37,26 @@
         <mxCell id="jtawM9_IdTwoaFk0VFE8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-6" target="jtawM9_IdTwoaFk0VFE8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-6" value="文件上传服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9.25" y="509" width="120" height="60" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-6" value="文件上传服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-8" target="jtawM9_IdTwoaFk0VFE8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-8" value="文件存储跳板机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9.25" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-8" value="文件存储跳板机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-9" target="jtawM9_IdTwoaFk0VFE8-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-9" value="&lt;div&gt;文件接收接口&lt;/div&gt;&lt;div&gt;（OpenApi）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="509" width="120" height="60" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-9" value="&lt;div&gt;文件接收接口&lt;/div&gt;&lt;div&gt;（OpenApi）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="386" y="509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-10" target="jtawM9_IdTwoaFk0VFE8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-10" value="文件推送服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9.25" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-10" value="文件推送服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-23" target="jtawM9_IdTwoaFk0VFE8-18">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-27" value="向量化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="507.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-28" value="&lt;div&gt;1、按日期目录存储；&lt;/div&gt;&lt;div&gt;2、额外信息（标题、作者、分类、行业、证券等）通过数据库提供？&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;verticalAlign=top;strokeColor=#F2F2F2;fillColor=#F7F7F7;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
