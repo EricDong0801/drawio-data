@@ -47,13 +47,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-6" value="&lt;div&gt;文件上传服务&lt;/div&gt;&lt;div&gt;(加密？)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="509" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-8" target="jtawM9_IdTwoaFk0VFE8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-8" value="文件存储跳板机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-8" value="文件存储跳板机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-9" target="jtawM9_IdTwoaFk0VFE8-23">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-10" value="文件推送服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="185" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="185" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-23" target="jtawM9_IdTwoaFk0VFE8-18">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="820" y="507.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-28" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1、按日期分目录存储；&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;2、额外信息（标题、作者、分类、行业、证券、更新时间等）通过数据库提供？&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;verticalAlign=top;strokeColor=#F2F2F2;fillColor=#F7F7F7;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="39" y="359" width="190" height="75" as="geometry" />
+          <mxGeometry x="-1" y="359" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-29" value="可定期销毁" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;verticalAlign=top;strokeColor=#F2F2F2;fillColor=#F7F7F7;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="632" y="622" width="114" height="44" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-34" value="Gangtise研报数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillColor=#E6E6E6;fontColor=#696969;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="463.75" width="137.5" height="150.5" as="geometry" />
+          <mxGeometry x="1208" y="463.75" width="137.5" height="150.5" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-36" value="向量化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#696969;" vertex="1" parent="1">
-          <mxGeometry x="1148" y="507.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="1128" y="507.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-38" value="&lt;div&gt;太平养老租户&lt;/div&gt;&lt;div&gt;（私有数据隔离）&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="771.75" y="662" width="170.75" height="20" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-38" value="&lt;div&gt;太平养老租户（私有数据隔离）&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="832" y="666" width="291.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-40" value="&lt;div&gt;https 协议&lt;br&gt;&lt;/div&gt;&lt;div&gt;(&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: nowrap; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;open.gangtise.com:443&lt;/span&gt;)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="95" y="507.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="55" y="507.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
