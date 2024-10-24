@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-9" value="&lt;div&gt;文件接收接口&lt;/div&gt;&lt;div&gt;（OpenApi）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="509" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-10" target="jtawM9_IdTwoaFk0VFE8-8">
           <mxGeometry relative="1" as="geometry" />
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-23" target="jtawM9_IdTwoaFk0VFE8-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-26" value="数据入库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="507.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-27" value="向量化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="796" y="507.75" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
