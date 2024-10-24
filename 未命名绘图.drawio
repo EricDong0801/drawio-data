@@ -28,11 +28,11 @@
             <mxPoint x="246.63" y="164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-4" value="太平养老" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="174" y="71" width="60" height="20" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-4" value="太平养老" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="150" y="71" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jtawM9_IdTwoaFk0VFE8-5" value="互联网端 / Gangtise" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="259.25" y="71" width="170.75" height="20" as="geometry" />
+        <mxCell id="jtawM9_IdTwoaFk0VFE8-5" value="互联网端 / Gangtise" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontSize=16;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="251" y="71" width="170.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jtawM9_IdTwoaFk0VFE8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jtawM9_IdTwoaFk0VFE8-6" target="jtawM9_IdTwoaFk0VFE8-9">
           <mxGeometry relative="1" as="geometry" />
